@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hk3KS0G4juubQQZURWYxPw2DGaRLgnRtgLU/l5l9F1I=",
+  "Source": "ProveedoresApi",
+  "BasePath": "_content/ProveedoresApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
