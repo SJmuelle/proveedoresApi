@@ -1,10 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using ProveedoresApi.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ProveedoresApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class ProveedoresController : ControllerBase
     {
         // Mock estático para simular una base de datos en memoria

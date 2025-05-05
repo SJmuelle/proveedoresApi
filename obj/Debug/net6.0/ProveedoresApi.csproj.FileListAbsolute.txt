@@ -25,3 +25,14 @@ C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\obj\Debug\net6.0\
 C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\obj\Debug\net6.0\ProveedoresApi.pdb
 C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\obj\Debug\net6.0\ProveedoresApi.genruntimeconfig.cache
 C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\obj\Debug\net6.0\ref\ProveedoresApi.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.Bcl.Memory.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shirl\Desktop\prueba\empleosTemporales\ProveedoresApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

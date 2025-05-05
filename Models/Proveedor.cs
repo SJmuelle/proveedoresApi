@@ -16,3 +16,4 @@ namespace ProveedoresApi.Models
         public string TipoProveedor { get; set; } = string.Empty;
     }
 }
+
